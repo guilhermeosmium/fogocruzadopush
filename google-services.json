@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "230420920006",
+    "firebase_url": "https://fogo-cruzado-c4ea1.firebaseio.com",
+    "project_id": "fogo-cruzado-c4ea1",
+    "storage_bucket": "fogo-cruzado-c4ea1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230420920006:android:f213383324be3b2c",
+        "android_client_info": {
+          "package_name": "br.org.fogocruzado.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230420920006-j1rne540tqs6pp18i54lcou6p1arrc2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3eyQwmpv19_tl-_W4OPgT68QsfhoCgF4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
