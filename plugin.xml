@@ -12,6 +12,10 @@
     
     <license>MIT</license>
 
+	<platform name="ios">
+		<source-file src="GoogleService-Info.plist"/>
+	</platform>
+	
 	<platform name="android">
 		<source-file src="google-services.json" target-dir="./"/>
 		<resource-file src="fcm_push_icon.png" target="res/drawable/fcm_push_icon.png" />
@@ -24,9 +28,5 @@
 		<resource-file src="fcm_push_icon-xxxhdpi.png" target="res/mipmap-xxxhdpi-v4/fcm_push_icon.png" />
 		<resource-file src="fcm_push_icon.png" target="res/fcm_push_icon.png" />
 		<resource-file src="fcm_push_icon.png" target="./fcm_push_icon.png" />
-	</platform>
-
-	<platform name="ios">
-		<source-file src="GoogleService-Info.plist"/>
-	</platform>
+	</platform>	
 </plugin>
