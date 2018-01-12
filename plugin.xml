@@ -14,6 +14,7 @@
 
 	<platform name="android">
 		<source-file src="google-services.json" target-dir="./"/>
+		<resource-file src="fcm_push_icon.png" target="res/drawable/fcm_push_icon.png" />
 	</platform>
 
 	<platform name="ios">
