@@ -36,6 +36,58 @@
           "status": 2
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230420920006:android:87513f08dfeb3fb1",
+        "android_client_info": {
+          "package_name": "com.fogocruzado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230420920006-acj7adfh7d4gbtelosmnke755p8iiu94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fogocruzado",
+            "certificate_hash": "29993bcd762ea7ecd87c14dbb31221865aeaad75"
+          }
+        },
+        {
+          "client_id": "230420920006-j1rne540tqs6pp18i54lcou6p1arrc2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3eyQwmpv19_tl-_W4OPgT68QsfhoCgF4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230420920006-p1c6p2sbm799spf6gjbb2l3uft79g6jo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.org.fogocruzado.app",
+                "app_store_id": "1131097214"
+              }
+            },
+            {
+              "client_id": "230420920006-j1rne540tqs6pp18i54lcou6p1arrc2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
     }
   ],
   "configuration_version": "1"
