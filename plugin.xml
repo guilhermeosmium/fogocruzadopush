@@ -17,7 +17,7 @@
 	</platform>
 	
 	<platform name="android">
-		<!--<source-file src="google-services.json" target-dir="./"/>-->
+		<source-file src="google-services.json" target-dir="./"/>
 		<resource-file src="fcm_push_icon.png" target="res/drawable/fcm_push_icon.png" />
 		<resource-file src="fcm_push_icon.png" target="res/mipmap/fcm_push_icon.png" />
 		<resource-file src="fcm_push_icon-hdpi.png" target="res/mipmap-hdpi-v4/fcm_push_icon.png" />
